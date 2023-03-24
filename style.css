@@ -54,10 +54,11 @@ section {
   margin-top: 5rem;
   display: inline;
 }
-strike {
+span {
   color: hsl(228, 12%, 48%);
   margin-left: 0.5rem;
   font-size: 14px;
+  text-decoration: line-through;
 }
 .container__btn {
   width: 100%;
